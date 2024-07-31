@@ -3,11 +3,6 @@
 
 Welcome to my professional portfolio! This repository showcases my skills, projects, and achievements. Feel free to explore the code and projects listed here.
 
-## Screenshots
-  ![Screenshot](home.png)
-  ![Screenshot](education.png)
-  ![Screenshot](skills.png)
-  ![Screenshot](getInTouch.png)
 ## Table of Contents
 
 - [Home](#home)
